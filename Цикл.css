@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-image: url("https://phonoteka.org/uploads/posts/2021-04/1618463027_28-p-mortal-kombat-fon-35.jpg");
+  font-family: "Century Gothic";
+}
+h1{
+  font-family: "Berlin Sans FB";
+}
+ul{
+    list-style-type: none;
+}
+img{
+  width: 350px;
+  height: 200px;
+}
+button{
+margin-right: 150px;
+  margin-left: 130px;
+}
